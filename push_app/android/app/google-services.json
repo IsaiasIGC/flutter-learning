@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "973675671034",
+    "project_id": "flutter-projects-b6960",
+    "storage_bucket": "flutter-projects-b6960.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973675671034:android:d1b77682fb1fe48578c843",
+        "android_client_info": {
+          "package_name": "com.isaiasgregori.push_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAKhlbfAPNDQYKQH0XFKApOGroicbycos"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
